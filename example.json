@@ -3,18 +3,18 @@
     "id": 1,
     "name": "BeelBeelX",
     "imageUrl": "https://m1r.ai/9/ow4fk.jpg",
-    "role": "Game Designer , Game Artist , Web Developer , Game Illustrator , QA Game tester"
+    "role": "Game Designer , Game Artist , Web Developer , Game Illustrator & QA Game tester"
   },
   {
     "id": 2,
     "name": "Miu",
     "imageUrl": "https://m1r.ai/9/uaa5o.jpg",
-    "role": " Systems Designer , Game Programmer , Gameplay Animator , FX Artist , Technical Artist , Level Designer ,  VFX artists"
+    "role": " Systems Designer , Game Programmer , Gameplay Animator , FX Artist , Technical Artist , Level Designer &  VFX artists"
   },
   {
     "id": 3,
     "name": "Peak",
     "imageUrl": "https://m1r.ai/9/uu41s.jpg",
-    "role": "Asset Artist ( Modeler ) , Level Designer , Environment Artist"
+    "role": "Asset Artist ( Modeler ) , Level Designer & Environment Artist"
   }
 ]
